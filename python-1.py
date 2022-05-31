@@ -11,7 +11,6 @@ while (converter == True):
         converter = False
         print("EXIT ....") 
         exit(0)
-    
     elif Tem_unit == 'C' or Tem_unit == 'c':
         Temper = float(input("temperature = "))
         print("------------------------------------------------------")
